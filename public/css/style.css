@@ -12,12 +12,12 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 1.6rem;
     line-height: 1.4;
-    background-color: rgb(230, 230, 230);
-    color: #303030;
+    background-color: rgb(242, 242, 242);
+    color: #535353;
 }
 
 h1 {
-    font-size: 1.92rem;
+    font-size: 2.3rem;
     font-weight: 700;
     text-shadow: 0.1rem 0.1rem 0.4rem #303030;
 }
@@ -31,9 +31,9 @@ h1 {
     width: 100vw;
     padding-left: 2.5rem;
     padding-top: 0.8rem;
-    background-color: #707070;
-    color: goldenrod;
-    font-size: 1.33rem;
+    background-color: #5ab3f1;
+    color: #ffffff;
+    font-size: 1.6rem;
     box-shadow: 0.2rem 0.2rem 0.6rem 0.1rem rgba(0, 0, 0, 0.2);
 }
 
@@ -44,7 +44,7 @@ h1 {
 .cabecalho ul {
     display: flex;
     font-weight: 600;
-    font-size: 1.6rem;
+    font-size: 1.92rem;
     gap: 3rem;
     list-style-type: none;
     text-decoration: none;
@@ -58,10 +58,10 @@ h1 {
 
 /* Menu Lateral */
 .menu-lateral {
-    background-color: #404040;
-    width: 16rem;
+    background-color: #fff;
+    width: 14rem;
     height: 100vh;
-    color: goldenrod;
+    color: #696969;
     font-size: 1.6rem;
     position: relative;
     box-shadow: 0.2rem 0.2rem 0.6rem 0.1rem rgba(0, 0, 0, 0.2);
@@ -71,15 +71,15 @@ h1 {
     display: flex;
     flex-flow: column;
     gap: 5rem;
-    padding-top: 2.5rem;
+    padding-top: 9rem;
     padding-left: 2.5rem;
     padding-bottom: 3.12rem;
     padding-right: 1.28rem;
     list-style-type: none;
     text-decoration: none;
-    text-shadow: 0.1rem 0.1rem 0.4rem #303030;
+    /* text-shadow: 0.1rem 0.1rem 0.4rem #303030; */
     font-weight: 600;
-    font-size: 1.33rem;
+    font-size: 1.6rem;
 }
 
 /* Conteudo */
@@ -89,7 +89,7 @@ h1 {
     flex-flow: column;
     position: absolute;
     top: 5.8rem;
-    left: 20rem;
+    left: 15rem;
 }
 
 .conteudo img {
