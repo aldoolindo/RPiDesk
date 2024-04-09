@@ -13,9 +13,13 @@ return new class extends Migration
     {
         Schema::create('customers', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('email');
-            $table->string('phone');
+            $table->string('ptc_id', 5)->nullable();
+            $table->string('ptc_situacao', 50)->nullable();
+            $table->string('ptc_dtcadastro', 10)->nullable();
+            $table->string('ptc_respcadastro', 50)->nullable();
+            $table->string('ptc_titulo')->nullable();
+            $table->string('ptc_status', 50)->nullable();
+            $table->text('ptc_observacao')->nullable();
             $table->timestamps();
         });
     }

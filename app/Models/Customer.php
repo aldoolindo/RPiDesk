@@ -9,11 +9,15 @@ class Customer extends Model
 {
     use HasFactory;
 
-    protected $table = 'customers';
+    protected $table = 'protocolos';
 
     protected $fillable = [
-        'name',
-        'email',
-        'phone',
+        'ptc_situacao',
+        'ptc_id',
+        'ptc_dtcadastro',
+        'ptc_respcadastro',
+        'ptc_titulo',
+        'ptc_status',
+        'ptc_nota',
     ];
 }

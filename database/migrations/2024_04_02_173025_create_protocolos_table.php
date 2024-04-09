@@ -13,13 +13,13 @@ return new class extends Migration
     {
         Schema::create('protocolos', function (Blueprint $table) {
             $table->id();
-            $table->string('ptc_id', 5);
-            $table->string('ptc_titulo');
-            $table->string('ptc_situacao', 25);
-            $table->string('ptc_status', 30);
-            $table->string('ptc_usucadastro', 30);
-            $table->string('ptc_datacadastro', 10);
-            $table->text('ptc_observacao');
+            $table->string('ptc_id', 6)->nullable();
+            $table->string('ptc_situacao', 50)->nullable();
+            $table->string('ptc_dtcadastro', 10)->nullable();
+            $table->string('ptc_respcadastro', 50)->nullable();
+            $table->string('ptc_titulo')->nullable();
+            $table->string('ptc_status', 50)->nullable();
+            $table->text('ptc_observacao')->nullable();
             $table->timestamps();
         });
     }
