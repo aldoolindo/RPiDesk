@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Protocolo extends Model
+{
+    use HasFactory;
+    protected $table = 'protocolos';
+    protected $filltable= ['ptc_id', 'ptc_titulo', 'ptc_situacao', 'ptc_usucadastro', 'ptc_datacadastro']
+}

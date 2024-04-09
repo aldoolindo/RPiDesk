@@ -1,0 +1,26 @@
+<?php
+
+namespace App\Imports;
+
+use App\Models\Protocolo;
+use Illuminate\Support\Facades\Hash;
+use Maatwebsite\Excel\Concerns\ToModel;
+
+class ProtocolsImport implements ToModel
+{
+    /**
+    * @param array $row
+    *
+    * @return \Illuminate\Database\Eloquent\Model|null
+    */
+    public function model(array $row)
+    {
+        return new Protocolo([
+            'ptc_id' => $row[0],
+            'ptc_titulo' => $row[1],
+            'ptc_situacao' => $row[2],
+            'ptc_usucadastro' => $row[3],
+            'ptc_datacadastro' => $row[4],
+        ]);
+    }
+}

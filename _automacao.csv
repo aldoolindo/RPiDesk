@@ -1,0 +1,133 @@
+﻿Situação;Responsável RP;ID;Data Cadastro;Responsável Cadastro;Título
+CS: Análise prévia;Aldo Moura de Olindo Júnior;35815;12/09/2023;Avelan Aragão;"Mudar campo ""Bonificação"" na Baixa do Pedido de Compra."
+CS: Análise prévia;Aldo Moura de Olindo Júnior;44323;12/03/2024;Jackson Schiblski;Criar trava de compras com base nas vendas
+CS: Análise prévia;Aldo Moura de Olindo Júnior;44540;15/03/2024;Guilherme Alves Virtuoso;Qtde venda Online somar Qtde contagem, Flex Mobile
+CS: Análise prévia;Aldo Moura de Olindo Júnior;44653;19/03/2024;Alysson Ferreira;Aproveitamento de lançamento NFE no ERP para o WRPDV
+CS: Análise prévia;Aldo Moura de Olindo Júnior;44900;25/03/2024;Guilherme Hochmüller;Data de entrega - Umov
+CS: Análise prévia;Aldo Moura de Olindo Júnior;44972;26/03/2024;Eduardo F. Ruchinski Correia;Preço2 - Cesta Básica
+CS: Análise prévia;Aldo Moura de Olindo Júnior;45111;28/03/2024;Fabiano José Silva Santos;Customização de API para Blip IA - Supermercado Palato
+CS: Análise prévia;Aldo Moura de Olindo Júnior;45145;28/03/2024;Alex Lima;#501578 Regras de Negócio API - 3 Configuracoes de Percentual de diferença de preço
+CS: Análise prévia;Aldo Moura de Olindo Júnior;45150;28/03/2024;Alex Lima;5.#501578 Regras de Negócio API conflito de regra
+CS: Análise prévia;Aldo Moura de Olindo Júnior;45159;30/03/2024;Jozelir Ferreira;Cadastro Clientes, opção de Uusário para permitir alteração de Vendedores e Alternativos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;30404;27/04/2023;Flavio Pinheiro;Específico 8509 - Validação de transações EAQ com frete lançado anteriormente em FDE
+IM: Análise prévia;Aldo Moura de Olindo Júnior;30449;28/04/2023;Jozelir Ferreira;Configuração Impressos tipo NFe (55) para Impressora térmica (25754)
+IM: Análise prévia;Aldo Moura de Olindo Júnior;33138;11/07/2023;Jozelir Ferreira;Ajuste forma de calcular a exclusão do ICMS da BC do PIS/COFINS (0723-004236)
+IM: Análise prévia;Aldo Moura de Olindo Júnior;33161;11/07/2023;Jozelir Ferreira;Automação de Entrada de NFs de Transferencia
+IM: Análise prévia;Aldo Moura de Olindo Júnior;33176;11/07/2023;Anderson Piana;"Pedido de Venda - Forma de Pagamento ""Trocas"" Deduzir no Pedido (Impresso)"
+IM: Análise prévia;Aldo Moura de Olindo Júnior;33216;12/07/2023;Eduardo F. Ruchinski Correia;Indicadores de Ajustes de Movimento para Contribuições de SC
+IM: Análise prévia;Aldo Moura de Olindo Júnior;33361;15/07/2023;Guilherme Alves Virtuoso;Formula Lucro/Preço Sugerido
+IM: Análise prévia;Aldo Moura de Olindo Júnior;33589;21/07/2023;Guilherme Hochmüller;Apresentar no custo venda: ST integral na calculadora custos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;34754;17/08/2023;Rosangela Dias;Portaria SRE 06/2022 - Crédito Outorgado
+IM: Análise prévia;Aldo Moura de Olindo Júnior;34817;18/08/2023;Eduardo F. Ruchinski Correia;Nota Fiscal Complementar DRCST
+IM: Análise prévia;Aldo Moura de Olindo Júnior;35111;24/08/2023;Rodrigo Cruz;Unidade Associada ao vendedor | Dcto PVD
+IM: Análise prévia;Aldo Moura de Olindo Júnior;36951;09/10/2023;Alex Lima;Efetivação dcto de estoque
+IM: Análise prévia;Aldo Moura de Olindo Júnior;37247;16/10/2023;Evelin Merlin;185989 - Devolução de produto sem cadastro
+IM: Análise prévia;Aldo Moura de Olindo Júnior;37271;16/10/2023;Jackson Schiblski;Pendências de distribuição
+IM: Análise prévia;Aldo Moura de Olindo Júnior;37294;17/10/2023;Guilherme Alves Virtuoso;Recalculo Mvto Fiscal
+IM: Análise prévia;Aldo Moura de Olindo Júnior;37460;19/10/2023;Lucas Camilotti;Período de análise - sugestão de compras
+IM: Análise prévia;Aldo Moura de Olindo Júnior;37879;30/10/2023;Anderson Silva;Incremento de Lucro Retroativo por Aplicação de Verba Comercial
+IM: Análise prévia;Aldo Moura de Olindo Júnior;37894;30/10/2023;Jozelir Ferreira;Cálculos de Restituição Tributárias - Considerar FCP
+IM: Análise prévia;Aldo Moura de Olindo Júnior;38095;02/11/2023;Jozelir Ferreira;Incidência do ICMS nas operações de transferência entre estabelecimentos da mesma empresa.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;38096;02/11/2023;Jozelir Ferreira;Controle de Verbas (Flex) de Vendedores
+IM: Análise prévia;Aldo Moura de Olindo Júnior;38388;09/11/2023;Isaque Adriano S. Ramos;Dados Assessórios - Emissão Notas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;38551;13/11/2023;Jackson Schiblski;Utilização do Portador para lançamento de EAQ automático
+IM: Análise prévia;Aldo Moura de Olindo Júnior;39747;29/11/2023;Luciano Vieira Barbirato;CRÉDITO ICMS MONOFÁSICO - RESPOSTA À CONSULTA TRIBUTÁRIA 27884/2023, 27901/2023 e 27968/2023
+IM: Análise prévia;Aldo Moura de Olindo Júnior;39902;30/11/2023;Jackson Schiblski;Preço Venda na CBALT69
+IM: Análise prévia;Aldo Moura de Olindo Júnior;40113;01/12/2023;Alex Lima;FlexMobile Agenda de Auditoria
+IM: Análise prévia;Aldo Moura de Olindo Júnior;40244;05/12/2023;Tiago Araujo;Adicionar busca relatório de pedidos baixados sem NF
+IM: Análise prévia;Aldo Moura de Olindo Júnior;40849;19/12/2023;Eduardo F. Ruchinski Correia;Atualizações Normas Técnica NFe
+IM: Análise prévia;Aldo Moura de Olindo Júnior;41557;10/01/2024;Andressa dos Santos;NFCe para Operações Especiais
+IM: Análise prévia;Aldo Moura de Olindo Júnior;41606;10/01/2024;Gessival Gonçalves de Passos;Gerar ID Aut. uma única vez ao final do lançamento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;41611;10/01/2024;Fabiano José Silva Santos;Desconto da Regra de negócios do Fornecedor - Supermercado Moranguinho
+IM: Análise prévia;Aldo Moura de Olindo Júnior;41716;12/01/2024;Rosangela Dias;Consulta XML - Validador tributário
+IM: Análise prévia;Aldo Moura de Olindo Júnior;41952;18/01/2024;Eduardo F. Ruchinski Correia;Somente gerar dados relativos a escrituração fiscal do movimento e retenções de impostos do FRE
+IM: Análise prévia;Aldo Moura de Olindo Júnior;41996;19/01/2024;Caio Vitor Resende Sousa;Flexibilização de limite convênio clientes
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42083;22/01/2024;Paulo Cabral da Cunha;Limitar valor informado na quantidade unitária no lançamento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42148;24/01/2024;Luis Felipe Miranda Santos;"Implementação das Tags ""vICMSSTRet"" e ""vBCStRet"" ( Cupom )"
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42202;24/01/2024;Rodrigo Cruz;Alteração ICMS Normal | Liberação por ID
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42248;25/01/2024;Eduardo F. Ruchinski Correia;Emissão NFe com Retenção no PDV
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42348;26/01/2024;Roberto Botelho;Ativação produtos pelo documento de lançamento (204920)
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42568;01/02/2024;Andressa dos Santos;Preço unificado
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42642;02/02/2024;Evelin Merlin;212296 - Alterar Datas de Transação
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42709;05/02/2024;Metas Treinamento e Consultoria;Redução de base de calculo para Pis/Cofins no cadastro de regras tributárias
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42931;09/02/2024;Eduardo F. Ruchinski Correia;Config. Financeiro / Conta Gerencial replicar fornecedor vinculado
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42944;12/02/2024;Jackson Schiblski;Documento EAP - Bloqueio anexar produtos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42952;12/02/2024;Tiago Araujo;Novo recurso de calculo de data de vencimento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;42976;12/02/2024;Márcio Paes;Cadastrar fator3, fator4 e fator5 com quantidade fracionada
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43056;14/02/2024;Vanderlei Barretto;Gravar Verbas do Pedido de Forma Automatizado PCP- Lançamento Por Loja
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43112;15/02/2024;Anderson Alves Virtuoso;Agendamentos pendentes dentro ERP Docas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43173;17/02/2024;Luciano Vieira Barbirato;Gerar guia de ICMs pelo erp
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43203;19/02/2024;Eduardo F. Ruchinski Correia;Inicialização da Pendência Financeira de Acordo com o XML
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43205;19/02/2024;Ronald Santos;Disponibilizar informação cadastrada no específico 8460 no relatório de Logs
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43222;19/02/2024;Isaque Adriano S. Ramos;Lançamento Nota de Despesas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43225;19/02/2024;Maicon Ruvonei;REDEMS - Pedido Compras X Bonificação
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43288;20/02/2024;Leonardo Souza;RELATORIO DESCONTOS FORNECEDORES E CUSTO PRODUTO
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43466;23/02/2024;Guilherme Hochmüller;Enviar e-mail validador trib critica para o fornecedor
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43560;26/02/2024;Camila  Biondo;Contatos do Fornecedor - Campo Marcas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43566;26/02/2024;Jackson Schiblski;Escopo de produtos para seleção de agendas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43662;28/02/2024;Jackson Schiblski;Geração de saldo de pendências de estoque no ORP
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43724;29/02/2024;Jozelir Ferreira;Controle de FCI movimentação de produtos semelhante controle de lotes
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43739;29/02/2024;Lucas Camilotti;Limite de compras - semanal
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43742;29/02/2024;Lucas Camilotti;Limite de compras - ajuste de aviso
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43775;29/02/2024;Guilherme Alves Virtuoso;Price - Custos anteriror
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43860;01/03/2024;Anderson Alves Virtuoso;Contatos Fornecedor Docas Confirmar Agendamento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;43861;01/03/2024;Márcio Paes;Entrada de NFe Automatizada
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44044;06/03/2024;Guilherme Alves Virtuoso;%Variação Preço PCP
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44122;07/03/2024;Isaque Adriano S. Ramos;Adição de Colunas no Relatório de Retenção
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44169;08/03/2024;Paulo Cabral da Cunha;clientes licitação
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44206;11/03/2024;Tiago Araujo;Novo recurso para inicialziação de agendas de tabelas já finalizadas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44226;11/03/2024;Rosangela Dias;Documento CIM - Melhorar performance
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44232;11/03/2024;Luiz  Junior Ribeiro Batista;Inativar e /ou Bloquear Produtos com Base em uma outra unidade de Movimento.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44265;11/03/2024;William Fernando;Flex Mobile - Atualização automática dos status - cliente Bergamini
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44298;12/03/2024;Alex Lima;Consulta Sintegra unificado
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44302;12/03/2024;Ivail Vieira;EVL - Pedido de Venda
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44337;12/03/2024;Guilherme Hochmüller;Integração Scanntech  - Docs EVA, EVD
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44341;12/03/2024;Rosangela Dias;505752 Módulo de Contratos - Auditoria de Contratos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44350;13/03/2024;Rosangela Dias;ICMS DESTINO
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44414;13/03/2024;Rodrigo Cruz;Recurso em Relatório Balancete de Movimento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44471;14/03/2024;William Fernando;Flex Mobile - Rolar/atualizar automaticamente a tela de contagem - cliente Bergamini
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44518;15/03/2024;Rosangela Dias;506081 Módulo de Contratos - Alerta de contratos próximo do vencimento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44530;15/03/2024;Rodrigo Cruz;VMD Indireta na sugestão por período, no PCP.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44541;15/03/2024;Evelin Merlin;216918 - Devolução de venda
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44627;18/03/2024;Anderson Gandolfi Silva;Valor de IPI acrescido no valor unitário no lançamento de produtos - EAQ
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44642;19/03/2024;Isaque Adriano S. Ramos;Contabilização do PIS e COFINS a Recolher pela Apuração
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44664;19/03/2024;Eduardo Barros;Cancelamento de Pedido de Compra Baixado
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44729;20/03/2024;Rosangela Dias;C590 Valor da Operação x Base Icms
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44746;20/03/2024;Eduardo Barros;Confirmação de todos os produtos no documento ENP
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44820;21/03/2024;Isaque Adriano S. Ramos;CFOP 5929 - Documento ENP
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44857;22/03/2024;Gustavo Domanski;Limite de comprador utilizando a data do pedido
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44858;22/03/2024;Jackson Schiblski;Impressão de Ordem de Produção
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44895;23/03/2024;Anderson Alves Virtuoso;Implementar Espécie no Lancamento PALM
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44901;25/03/2024;Victor Bogar;Venda média/Estoque Mínimo.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44917;25/03/2024;Isaque Adriano S. Ramos;CFOP 5929 Não levar Valor para SPED Fiscal
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44959;25/03/2024;Denilson Campos;Inicializar programação de preços para agenda já em vigor nos contratos de compra
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44974;26/03/2024;Rosangela Dias;505762 Limite de compras
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44986;26/03/2024;Rodrigo Cruz;Preservar margem dos produtos, ao importar cupons com descontos de clubes de vantagens.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;44996;26/03/2024;Maicon Ruvonei;Processo de Exportação Via Integrador Info Price
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45004;26/03/2024;Rosangela Dias;Manifestação de Destinatário
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45005;26/03/2024;Pietro Teixeira;Flex Mobile: inicialização de Lote com filtro por fornecedor
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45022;26/03/2024;Paulo Cabral da Cunha;Portal Docas fornecedor Multiplos agendamentos para mesma unidade
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45045;27/03/2024;Rodrigo Cruz;Validar Produtos já Digitados | Pedido de Venda
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45058;27/03/2024;Edmilson Lima;Desabilitar a Opçao de Apertar Enter no campo Especie e deixar apenas o F12
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45063;27/03/2024;Isaque Adriano S. Ramos;Importação do SPED Fiscal
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45090;28/03/2024;Denilson Campos;Criar config no doc tipo PVD para permitir informa clientes apenas digitando CPNJ/CPF
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45101;28/03/2024;Denilson Campos;Criar recurso para poder destacar linhas no cadastro de produtos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45118;28/03/2024;Luciano Vieira Barbirato;Exportação pra Balança produtos de Empório
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45123;28/03/2024;Alex Lima;#509676 Kardex por horário
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45124;28/03/2024;Eduardo Barros;Obrigatoriedade do codigo de beneficio no cadastro de produtos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45130;28/03/2024;Jozelir Ferreira;Impressão etiqueta preço por codigo - sem preço de venda
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45137;28/03/2024;Marcia Machado;SigaMatch - Desenvolver Integração FamillyCard
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45148;28/03/2024;Gessival Gonçalves de Passos;Entrada de NFe Automatizada
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45154;30/03/2024;Luciano Vieira Barbirato;Emissão de NFs via FlexDB
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45168;01/04/2024;Alex Lima;#509867 TRANSFERÊNCIA DE CARTÕES - DOCUMENTOS FRP.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45221;02/04/2024;Marcos A. Gonzaga Tavares;Alteração cadastral produtos
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45222;02/04/2024;Marcia Machado;SigaMatch - Senff separação de Bandeira - Supermercado Tonhão CNPJ 10.828.619/0001-42
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45244;02/04/2024;Jackson Schiblski;Extração de dados via Api/Rpservices
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45248;02/04/2024;William Fernando;Calcular juros automaticamente
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45258;02/04/2024;Alex Lima;EAQ aviso
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45270;02/04/2024;Rodrigo Cruz;Embalagem de Compra / Embalagem para venda.
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45292;03/04/2024;Rafael Mascarello;Status Autorização De Pedidos De Despesas
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45301;03/04/2024;Márcio Paes;Valor minimo do PVD por forma de pagamento
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45309;03/04/2024;Luciano Vieira Barbirato;Relatório de relação de produtos que contenha a data da última auditoria de estoque do produto
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45330;03/04/2024;Rodrigo Cruz;"Custo Diferenciado para Dctos EST | Contabilização Separada;"
+IM: Análise prévia;Aldo Moura de Olindo Júnior;45334;03/04/2024;Evelin Merlin;223363 - Lançamento de Frete EAQ - Não informado frete no pedido baixado
